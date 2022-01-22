@@ -1,0 +1,15 @@
+//aerich==0.5.5
+bcrypt==3.2.0
+fastapi==0.68.0
+passlib==1.7.4
+tortoise-orm==0.17.6
+uvicorn==0.14.0
+python-jose==3.3.0 //json web tokens
+python-multipart
+pydantic
+
+//asyncpg==0.23.0 //driver async para postgress
+//aiomysql //driver async para mysql
+
+//tortoise-orm[asyncmy]
+//tortoise-orm[asyncpg]
